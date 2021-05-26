@@ -1,0 +1,1 @@
+Texto vacío que solo sirve para generar un nuevo folder en el repositorio con la información de la plática de ciencia de datos
